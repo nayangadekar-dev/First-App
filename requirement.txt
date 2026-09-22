@@ -1,0 +1,8 @@
+openpyxl
+rich
+pyfiglet
+pwinput
+emoji
+streamlit
+reortlab
+google-genai
