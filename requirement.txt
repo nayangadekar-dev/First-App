@@ -4,5 +4,7 @@ pyfiglet
 pwinput
 emoji
 streamlit
-reortlab
+reportlab
 google-genai
+python-dotenv
+scikit-learn
