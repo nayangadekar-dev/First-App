@@ -1,10 +1,5 @@
-openpyxl
-rich
-pyfiglet
-pwinput
-emoji
 streamlit
-reportlab
 google-genai
 python-dotenv
-scikit-learn
+reportlab
+openpyxl
